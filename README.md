@@ -1,35 +1,97 @@
-<h1>Hi, I'm Yossef!</h1>
-BS - Cybersecurity Graduate w/ Sec+ certification, working on home labs to strengthen skills through hands-on experience.
-
-<h2>👨‍💻 Projects:</h2>
-
-- <b>Cybersecurity Homelab Workstation Build</b>
-  - [The Process](https://github.com/yossefhabib/HomelabWorkstationBuild)
-
-<h2>💎 Cirtifications</h2>
-
-<b> [CompTIA Security+ (SYO-701)](https://www.credly.com/badges/619c3266-d0ba-463d-bc1c-29e3f5884f19/public_url)</b>
-
-
-<h2> 💬 Connect with me:</h2>
-
-[<img align="left" alt="Yossef_Habib | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/yossef-habib/
-
+# Hello, I'm Yossef Habib
+<a href="https://www.linkedin.com/in/yossef-habib/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/yossefhabib/HomelabWorkstationBuild"><img src="https://img.shields.io/badge/-Homelab_Project-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://tryhackme.com/p/"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+-->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+BS - Cybersecurity w/ Sec+ certification, working on home labs to strengthen skills through hands-on experience.
+
+## Objective
+
+Cybersecurity with a focus on Security Operations. Building hands-on experience through homelab projects involving SIEM deployment, Active Directory security, and automated incident response.
+
+## Certifications
+
+<a href="https://www.credly.com/badges/619c3266-d0ba-463d-bc1c-29e3f5884f19/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+**CompTIA Security+ (SY0-701)** - February 2026
+<!--
+## Skills
+
+| Skill | Associated Project |
+|-------|-------------------|
+| Hardware & Virtualization | [Homelab Server Build](https://github.com/) |
+| Proxmox VE Administration | [Homelab Server Build](https://github.com/) |
+| NAS Configuration (OMV, MergerFS, SnapRAID) | [Homelab Server Build](https://github.com/) |
+| Docker & Container Deployment | [Homelab Server Build](https://github.com/h) |
+| Network Segmentation & VLANs | [Homelab Server Build](https://github.com/) |
+| SIEM Deployment & Log Analysis (Splunk) | [Splunk SIEM Lab](https://github.com/) |
+| Threat Detection & MITRE ATT&CK Mapping | [Splunk SIEM Lab](https://github.com/) |
+| Incident Response & Investigation | [Splunk SIEM Lab](https://github.com/) |
+| PowerShell Scripting & Automation | Professional Experience |
+| Incident Triage & Ticketing (ITSM) | Professional Experience |
+| Network Monitoring (PRTG) | Professional Experience |
+-->
+
+## Tools
+
+### Virtualization & Infrastructure
+<div>
+    <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+</div>
+<!--
+### SIEM & Security
+<div>
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-ED1C24?&style=for-the-badge&logoColor=white" />
+</div>
+-->
+
+### Network & Monitoring
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  <!--
+  <img src="https://img.shields.io/badge/-PRTG-00A5D6?&style=for-the-badge&logoColor=white" />
+  -->
+</div>
+
+ <!--
+### Scripting & OS
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+</div>
+-->
+
+## Projects
+
+### Completed
+ 
+| Project | Description |
+|---------|-------------|
+ <!--
+| [Homelab Server Build](https://github.com/hazzugot/HomelabRYZEN) | Custom 10-inch rack server with Proxmox VE, OpenMediaVault NAS, Jellyfin media server, and network segmentation. Fully documented with hardware rationale and troubleshooting logs. |
+| [Splunk SIEM Lab](https://github.com/hazzugot/HomelabRYZEN/blob/main/Labs/Lab%201%20SIEM%20DEPLOYMENT.md) | Enterprise SIEM deployment with Splunk, Sysmon endpoint telemetry, 4 custom detection rules mapped to MITRE ATT&CK, SOC dashboard, and full attack simulation with documented incident response. |
+-->
+### Planned Security Labs
+
+Building toward a complete Mini SOC environment:
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| Active Directory Lab | Planned | Windows Server domain with log forwarding to SIEM, attack simulation using Atomic Red Team |
+| SOAR Automation | Planned | Integrate Wazuh with Shuffle for automated incident response playbooks |
+| EDR Integration | Planned | Deploy Lima Charlie with Tines SOAR for endpoint detection and response |
+| Mini SOC (Capstone) | Planned | Combine SIEM, EDR, SOAR, and IDS into a functional SOC environment with MITRE ATT&CK mapped detections |
+
+## Education
+
+**Bachelor of Science: Cybersecurity** - Metropolitan State University (May 2026) 
+<!-- *Relevant Coursework: *
 -->
