@@ -84,7 +84,7 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| Splunk SIEM Lab  | Enterprise SIEM deployment with Splunk, Sysmon endpoint telemetry, 4 custom detection rules mapped to MITRE ATT&CK, SOC dashboard, and full attack simulation with documented incident response. |
+| Splunk SIEM Lab  | Planned | Enterprise SIEM deployment with Splunk, Sysmon endpoint telemetry, 4 custom detection rules mapped to MITRE ATT&CK, SOC dashboard, and full attack simulation with documented incident response. |
 | Active Directory Lab | Planned | Windows Server domain with log forwarding to SIEM, attack simulation using Atomic Red Team |
 | SOAR Automation | Planned | Integrate Wazuh with Shuffle for automated incident response playbooks |
 | EDR Integration | Planned | Deploy Lima Charlie with Tines SOAR for endpoint detection and response |
