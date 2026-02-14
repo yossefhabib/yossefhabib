@@ -17,6 +17,12 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 <a href="https://www.credly.com/badges/619c3266-d0ba-463d-bc1c-29e3f5884f19/public_url"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 **CompTIA Security+ (SY0-701)** - February 2026
+
+## Education
+
+**Bachelor of Science: Cybersecurity** - Metropolitan State University (May 2026) 
+<!-- *Relevant Coursework: *
+-->
 <!--
 ## Skills
 
@@ -89,8 +95,3 @@ Building toward a complete Mini SOC environment:
 | EDR Integration | Planned | Deploy Lima Charlie with Tines SOAR for endpoint detection and response |
 
 
-## Education
-
-**Bachelor of Science: Cybersecurity** - Metropolitan State University (May 2026) 
-<!-- *Relevant Coursework: *
--->
