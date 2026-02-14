@@ -79,12 +79,12 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 | [Homelab Host Build](https://github.com/yossefhabib/HomelabWorkstationBuild) | This project documents the design, assembly, configuration, and validation of a high-performance Windows 11 Pro workstation built to support multi-VM cybersecurity lab environments, defensive security testing, and SOC-focused practice. |
 | [Hyper-V Kali Linux VM Setup](https://github.com/yossefhabib/HyperVSetUp) | Deployed and architected an isolated Kali Linux cybersecurity lab using Microsoft Hyper-V on Windows 11 Pro, incorporating network segmentation, resource optimization, and integrity verification to establish a secure foundation for Active Directory attack simulations and SOC practice environments. |
 
-### Planned Security Labs
 
-Building toward a complete Mini SOC environment:
+### Planned Security Labs
 
 | Project | Status | Description |
 |---------|--------|-------------|
+| Splunk SIEM Lab  | Enterprise SIEM deployment with Splunk, Sysmon endpoint telemetry, 4 custom detection rules mapped to MITRE ATT&CK, SOC dashboard, and full attack simulation with documented incident response. |
 | Active Directory Lab | Planned | Windows Server domain with log forwarding to SIEM, attack simulation using Atomic Red Team |
 | SOAR Automation | Planned | Integrate Wazuh with Shuffle for automated incident response playbooks |
 | EDR Integration | Planned | Deploy Lima Charlie with Tines SOAR for endpoint detection and response |
