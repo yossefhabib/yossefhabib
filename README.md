@@ -1,6 +1,6 @@
 # Hello, I'm Yossef Habib
 <a href="https://www.linkedin.com/in/yossef-habib/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/yossefhabib/HomelabWorkstationBuild"><img src="https://img.shields.io/badge/-Homelab_Project-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<a href="https://github.com/yossefhabib/"><img src="https://img.shields.io/badge/-Homelab_Project-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <!--
 <a href="https://tryhackme.com/p/"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
 -->
@@ -75,10 +75,9 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
  
 | Project | Description |
 |---------|-------------|
- <!--
-| [Homelab Server Build](https://github.com/hazzugot/HomelabRYZEN) | Custom 10-inch rack server with Proxmox VE, OpenMediaVault NAS, Jellyfin media server, and network segmentation. Fully documented with hardware rationale and troubleshooting logs. |
-| [Splunk SIEM Lab](https://github.com/hazzugot/HomelabRYZEN/blob/main/Labs/Lab%201%20SIEM%20DEPLOYMENT.md) | Enterprise SIEM deployment with Splunk, Sysmon endpoint telemetry, 4 custom detection rules mapped to MITRE ATT&CK, SOC dashboard, and full attack simulation with documented incident response. |
--->
+| [Homelab Host Build](https://github.com/yossefhabib/HomelabWorkstationBuild) | This project documents the design, assembly, configuration, and validation of a high-performance Windows 11 Pro workstation built to support multi-VM cybersecurity lab environments, defensive security testing, and SOC-focused practice. |
+| [Hyper-V Kali Linux VM Setup](https://github.com/yossefhabib/HyperVSetUp) | Deployed and architected an isolated Kali Linux cybersecurity lab using Microsoft Hyper-V on Windows 11 Pro, incorporating network segmentation, resource optimization, and integrity verification to establish a secure foundation for Active Directory attack simulations and SOC practice environments. |
+
 ### Planned Security Labs
 
 Building toward a complete Mini SOC environment:
