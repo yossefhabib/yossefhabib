@@ -18,11 +18,6 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 
 **CompTIA Security+ (SY0-701)** - February 2026
 
-## Education
-
-**Bachelor of Science: Cybersecurity** - Metropolitan State University (May 2026) 
-<!-- *Relevant Coursework: *
--->
 <!--
 ## Skills
 
@@ -94,4 +89,8 @@ Building toward a complete Mini SOC environment:
 | SOAR Automation | Planned | Integrate Wazuh with Shuffle for automated incident response playbooks |
 | EDR Integration | Planned | Deploy Lima Charlie with Tines SOAR for endpoint detection and response |
 
+## Education
 
+**Bachelor of Science: Cybersecurity** - Metropolitan State University (May 2026) 
+<!-- *Relevant Coursework: *
+-->
