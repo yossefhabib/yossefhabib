@@ -1,4 +1,4 @@
-# Hello, I'm Yossef Habib
+# Hey, I'm Yossef Habib
 <a href="https://www.linkedin.com/in/yossef-habib/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/yossefhabib/"><img src="https://img.shields.io/badge/-Homelab_Project-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 <!--
