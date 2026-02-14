@@ -87,7 +87,7 @@ Building toward a complete Mini SOC environment:
 | Active Directory Lab | Planned | Windows Server domain with log forwarding to SIEM, attack simulation using Atomic Red Team |
 | SOAR Automation | Planned | Integrate Wazuh with Shuffle for automated incident response playbooks |
 | EDR Integration | Planned | Deploy Lima Charlie with Tines SOAR for endpoint detection and response |
-| Mini SOC (Capstone) | Planned | Combine SIEM, EDR, SOAR, and IDS into a functional SOC environment with MITRE ATT&CK mapped detections |
+
 
 ## Education
 
