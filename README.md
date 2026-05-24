@@ -80,7 +80,7 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 | [Hyper-V Kali Linux VM Setup](https://github.com/yossefhabib/HyperVSetUp) | Deployed and architected an isolated Kali Linux cybersecurity lab using Microsoft Hyper-V on Windows 11 Pro, incorporating network segmentation, resource optimization, and integrity verification to establish a secure foundation for Active Directory attack simulations and SOC practice environments. |
 | [Subnet Configuration & ICMP Validation](https://github.com/yossefhabib/Netconfig) | This lab demonstrates building a functional isolated network in Hyper-V by configuring static IPv4 addressing across Windows and Linux VMs, validating connectivity, adjusting firewall rules, and preparing foundational infrastructure for Active Directory and SIEM deployment. |
 | [Setting up Active Directory DS](https://github.com/yossefhabib/Initial-AD-setup-) | A hands-on walkthrough of setting up an Active Directory domain from scratch on a Windows Server instance, then joining a Windows client machine to the domain and adding 2 groups and users for each. |
-
+| [Setting up Splunk](https://github.com/yossefhabib/Splunk) | Deployed Splunk SIEM on an Ubuntu server to centralize log collection from Windows Server 2022 and Windows 11 endpoints via Universal Forwarder. Configured Sysmon telemetry ingestion to support threat detection and Active Directory monitoring across the home lab. |
 ### Planned Security Labs
 
 | Project | Status | Description |
