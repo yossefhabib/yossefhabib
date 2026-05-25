@@ -1,9 +1,6 @@
 # Hey, I'm Yossef Habib
 <a href="https://www.linkedin.com/in/yossef-habib/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/yossefhabib/"><img src="https://img.shields.io/badge/-Homelab_Project-181717?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
-<!--
-<a href="https://tryhackme.com/p/"><img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
--->
 
 
 BS - Cybersecurity w/ Sec+ certification, working on home labs to strengthen skills through hands-on experience.
@@ -18,23 +15,6 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 
 **CompTIA Security+ (SY0-701)** - February 2026
 
-<!--
-## Skills
-
-| Skill | Associated Project |
-|-------|-------------------|
-| Hardware & Virtualization | [Homelab Server Build](https://github.com/) |
-| Proxmox VE Administration | [Homelab Server Build](https://github.com/) |
-| NAS Configuration (OMV, MergerFS, SnapRAID) | [Homelab Server Build](https://github.com/) |
-| Docker & Container Deployment | [Homelab Server Build](https://github.com/h) |
-| Network Segmentation & VLANs | [Homelab Server Build](https://github.com/) |
-| SIEM Deployment & Log Analysis (Splunk) | [Splunk SIEM Lab](https://github.com/) |
-| Threat Detection & MITRE ATT&CK Mapping | [Splunk SIEM Lab](https://github.com/) |
-| Incident Response & Investigation | [Splunk SIEM Lab](https://github.com/) |
-| PowerShell Scripting & Automation | Professional Experience |
-| Incident Triage & Ticketing (ITSM) | Professional Experience |
-| Network Monitoring (PRTG) | Professional Experience |
--->
 
 ## Tools
 
@@ -43,14 +23,13 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
     <img src="https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
 </div>
-<!--
+
 ### SIEM & Security
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-ED1C24?&style=for-the-badge&logoColor=white" />
-</div>
--->
+
+
 
 ### Network & Monitoring
 <div>
@@ -61,14 +40,14 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
   -->
 </div>
 
- <!--
+ 
 ### Scripting & OS
 <div>
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
   <img src="https://img.shields.io/badge/-Windows_Server-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
--->
+
 
 ## Projects
 
