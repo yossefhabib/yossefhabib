@@ -35,9 +35,7 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-  <!--
-  <img src="https://img.shields.io/badge/-PRTG-00A5D6?&style=for-the-badge&logoColor=white" />
-  -->
+  
 </div>
 
  
