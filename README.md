@@ -28,14 +28,15 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Cortex%20XDR%2FXSOAR-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 
 
 ### Network & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
-  
+    <img src="https://img.shields.io/badge/-Strata-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Prisma%20Access%20Browser-F04E23?&style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
 </div>
 
  
