@@ -74,6 +74,6 @@ Cybersecurity with a focus on Security Operations. Building hands-on experience 
 
 ## Education
 
-**Bachelor of Science: Cybersecurity** - Metropolitan State University (May 2026) 
+**Bachelor of Science: Cybersecurity** - Metropolitan State University
 <!-- *Relevant Coursework: *
 -->
