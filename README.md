@@ -6,7 +6,7 @@
 
 **InfoSec intern at a regional government agency** · BS in Cybersecurity · CompTIA Security+
 
-By day I triage alerts and investigate phishing in a SOC. By night I build and break **JuiceBox**, a home detection lab with Active Directory, a SIEM, an attacker VM and its own firewall, so I can run real ATT&CK techniques and see exactly what the telemetry looks like.
+Day to day I work alert triage, incident response, and endpoint policy on the InfoSec team of a regional government agency. During my free time I build and break **JuiceBox**, a home detection lab with Active Directory, a SIEM, an attacker VM and its own firewall, so I can run real ATT&CK techniques and see exactly what the telemetry looks like.
 
 ---
 
